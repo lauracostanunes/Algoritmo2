@@ -3,8 +3,8 @@ programa {
     inteiro A[10][10]
     inteiro L
     inteiro C
-    para (inteiro L = 0; L < 5; L++) {
-      para (inteiro C = 0; C < 5; C++) {
+    para (inteiro L = 0; L < 10; L++) {
+      para (inteiro C = 0; C < 10; C++) {
         se ( L < C) {
       A[L][C] = (2*L) + (7*C) -2
     }
@@ -16,9 +16,9 @@ programa {
     }
       }
     }
-    para (inteiro L = 0; L < 5; L++) {
+    para (inteiro L = 0; L < 10; L++) {
       escreva("\n")
-      para (inteiro C = 0; C < 5; C++) {
+      para (inteiro C = 0; C < 10; C++) {
         escreva (" ", A[L][C])
       }
     }
