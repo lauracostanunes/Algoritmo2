@@ -9,7 +9,7 @@ programa {
     mostrarVetor (a, tamanho)
   }
   funcao mostrarVetor (inteiro a[], inteiro tamanho) {
-     para (inteiro i = 0; i < 3; i++) {
+     para (inteiro i = 0; i < tamanho; i++) {
       escreva("O ", i + 1, "° valor é: ", a[i], "\n")
     }
   }
