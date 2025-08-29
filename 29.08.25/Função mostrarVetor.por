@@ -4,8 +4,7 @@ programa {
     inteiro a[3]
     inteiro tamanho
     para (inteiro i = 0; i < 3; i++) {
-      escreva("Informe o ", i + 1, "° valor: ")
-      leia(a[i])
+      a[i] = Util.sorteia(0, 10)
     }
     mostrarVetor (a, tamanho)
   }
