@@ -17,6 +17,8 @@ programa {
           // Convenção nomear com um verbo no infinitivo
         }
       // Com retorno:
-        
+        funcao tipo nome() {
+          retorne tipo
+        }
   }
 }
