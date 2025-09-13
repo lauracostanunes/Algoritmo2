@@ -8,7 +8,7 @@ programa {
     funcao inteiro fatorial(inteiro n) {
         inteiro resultado = 1
         para (inteiro i = 1; i <= n; i++) {
-            resultado = resultado * i
+            resultado += resultado * i
         }
         retorne resultado
     }
