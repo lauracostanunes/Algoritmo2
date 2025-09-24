@@ -1,6 +1,12 @@
-x = int(input(" Insira sua nota:"))
+x = int(input("Digite a nota do aluno: "))
+if 30 <= x and x < 60:
+    print("O aluno deverá fazer sub")
+else: 
+  if x >= 60:
+   print("O aluno foi aprovado")
+  else:
+    print("O aluno não tem salvação")
 
-if x >= 30 and x < 60:
-    print(" está de sub :(")
-
-print("fim do pograma")
+if x >= 30:
+  if x < 60:
+    print("Aluno fará sub")

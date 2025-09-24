@@ -1,11 +1,9 @@
-x = int(input("Insira um numero :"))
-
+x = int(input("Digite um valor inteiro:"))
 if x == 0:
-    print(f"O valor {x} é igual a zero")
+  print("O valor ", x,"é igual a zero")
 else:
     if x > 0:
-        print(f"O valor {x} é positivo")# entra no else
+      print("O valor", x, "é positivo")
     else:
-        print(f"O valor {x} é negativo") # else do if acima apenas
-
-print("Fim do pograma")
+      print("O valor", x, "é negativo")
+print("Fim do programa")
