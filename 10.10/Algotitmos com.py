@@ -18,3 +18,6 @@
     # Percorre/ itera uma lista
         # for <<var>> in <<lista>>:
     # Não precisa especificar início, nem fim
+
+# Lista posicional
+
