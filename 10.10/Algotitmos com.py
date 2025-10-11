@@ -58,3 +58,7 @@
     # a.reverse() -> inverte ordem da lista
     # a.sort() -> ordena
     # a.remove() -> remove
+    # a.pop() -> remove o elemento da posição e informa o item removido
+
+# Lista aninhadas
+    # "Matriz de listas"
