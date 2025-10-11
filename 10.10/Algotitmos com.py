@@ -21,3 +21,9 @@
 
 # Lista posicional
 
+# Declarar lista
+    # lista = []
+    # Inclusão elementos
+        # lista.append(conteúdo)
+        # append estica a lista
+    # Alocação
