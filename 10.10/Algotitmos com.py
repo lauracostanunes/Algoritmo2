@@ -44,6 +44,9 @@
 # Remoção de elementto de uma lista
     # del lista[índice]
 
-# Cópia de listas
-    # b = a
-    # Toda modificação em a é feita também em b
+# Cópia de lista
+    # B aponta para a mesma direção que A
+        # b = a 
+        # Toda modificação em a é feita também em b
+    # Para uma cópia
+        # b = a[:]
