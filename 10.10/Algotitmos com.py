@@ -27,3 +27,13 @@
         # lista.append(conteúdo)
         # append estica a lista
     # Alocação
+
+# Sublistas
+    # lista[i:j] -> j = j - 1
+    # lista[i: ] -> i até o fim
+    # lista[:j] -> início até j-1
+    # lista[i:j:k] -> -> k = fator de incremento
+
+# Unpacking:
+    # Colocar os elementos em variáveis
+    # Desempacotar
