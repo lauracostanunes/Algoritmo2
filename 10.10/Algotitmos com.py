@@ -37,3 +37,6 @@
 # Unpacking:
     # Colocar os elementos em variáveis
     # Desempacotar
+
+# Concatenar listas
+    # Transformar listas em uma
