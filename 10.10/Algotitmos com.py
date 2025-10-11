@@ -40,3 +40,10 @@
 
 # Concatenar listas
     # Transformar listas em uma
+
+# Remoção de elementto de uma lista
+    # del lista[índice]
+
+# Cópia de listas
+    # b = a
+    # Toda modificação em a é feita também em b
