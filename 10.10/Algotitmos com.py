@@ -50,3 +50,6 @@
         # Toda modificação em a é feita também em b
     # Para uma cópia
         # b = a[:]
+
+# Procurando um elemento
+    # if x in a:
