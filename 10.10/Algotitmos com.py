@@ -53,3 +53,8 @@
 
 # Procurando um elemento
     # if x in a:
+
+# Lista é uma classe, logo já tem funções implementadas
+    # a.reverse() -> inverte ordem da lista
+    # a.sort() -> ordena
+    # a.remove() -> remove
