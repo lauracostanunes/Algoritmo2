@@ -16,3 +16,6 @@ print(id(copia))
 a = copia.get("Código", -1)
 print(a)
 print(copia)
+
+print(copia.keys())
+print(copia.values())
